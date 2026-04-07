@@ -1,0 +1,7 @@
+anthropic
+mcp
+SpeechRecognition
+PyAudio
+PyAutoGUI
+python-dotenv
+pyyaml

@@ -1,0 +1,1 @@
+class CommandProcessor: pass
